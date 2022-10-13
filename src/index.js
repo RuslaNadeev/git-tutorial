@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('commit3');
+console.log('version1');

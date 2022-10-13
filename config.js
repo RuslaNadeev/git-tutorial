@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('commmit3');
+console.log('version1');
